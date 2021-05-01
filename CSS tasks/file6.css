@@ -1,0 +1,20 @@
+.h1 {
+    text-align: center;
+}
+.h2 {
+    text-align: right;
+}
+.ga {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.go {
+    text-align: center;
+}
+.th {
+    text-align: left;
+}
+.td {
+    text-align: center;
+}

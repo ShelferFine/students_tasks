@@ -1,0 +1,9 @@
+h2 {
+    font-style: italic;
+}
+p {
+    font-style: italic;
+}
+.p-not {
+    font-style: normal;
+}
